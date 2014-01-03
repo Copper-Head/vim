@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/etc'
 let g:netrw_dirhist_2='/media/Arch/etc'
 let g:netrw_dirhist_3='/home/ilia/Dropbox/LING492A-Spring2013/yearbook'
 let g:netrw_dirhist_4='/media/7286fe8c-d4ab-4b5d-a036-81fdbf3277dc/etc/rc.d'
 let g:netrw_dirhist_5='/media/7286fe8c-d4ab-4b5d-a036-81fdbf3277dc/etc/rc.d/functions.d'
 let g:netrw_dirhist_6='/etc/systemd/system/multi-user.target.wants'
+let g:netrw_dirhist_7='/home/ilia/Documents/archive/umass/spring13/thesis'
+let g:netrw_dirhist_8='/home/ilia/Documents/archive/umass/spring13/thesis/ltxsource'
